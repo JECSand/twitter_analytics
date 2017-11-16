@@ -1,0 +1,425 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "created_at": "Sat Oct 28 09:42:31 +0000 2017",
+                "text": "Apple iPad mini 1st generation 16GB, Wifi + Cellular Verizon, 7.9in, space gray https://t.co/hmQNOkS1gV https://t.co/Ekb9f3fsze"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9866146,
+                    40.7306448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "created_at": "Sat Oct 28 09:46:06 +0000 2017",
+                "text": "Verizon Deploys Its First Massive MIMO In Irvine, California https://t.co/UqRO8FvowN #Android #Google #news https://t.co/PZ9V2WtUA0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.244483,
+                    34.054928000000004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "created_at": "Sat Oct 28 09:46:31 +0000 2017",
+                "text": "RT @Androidheadline: Verizon Deploys Its First Massive MIMO In Irvine, California https://t.co/UqRO8FvowN #Android #Google #news https://t.\u2026"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.0581631,
+                    42.3200179
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "created_at": "Sat Oct 28 09:42:00 +0000 2017",
+                "text": "Saudi Arabia is About to Invest $1 Billion in Branson's Virgin Galactic -  - https://t.co/Ew041Vcmer https://t.co/dL9TZDYwcH"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.33007140000001,
+                    47.6038231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "created_at": "Sat Oct 28 09:33:04 +0000 2017",
+                "text": "New post (Why We Are Attracted to Certain People, According to Science\u00a0|\u00a0Reader's Digest) has been published on  -\u2026 https://t.co/2lZT0p2lgP"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.999999,
+                    30.999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "created_at": "Sat Oct 28 10:02:57 +0000 2017",
+                "text": "@comcast Comcast has a looong reputation for treating customers like shit and now they expect us to trust them? Kar\u2026 https://t.co/rjwhkzZxde"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.15066450269299,
+                    33.5132169579853
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "created_at": "Sat Oct 28 09:51:12 +0000 2017",
+                "text": "I added a video to a @YouTube playlist https://t.co/6UHvSuPKg0 Att Goriye - Tigerstyle Feat. Preet Harpal &amp; Hard Kaur || Lokdhun ||"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.5937588,
+                    30.4776787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "created_at": "Sat Oct 28 09:51:41 +0000 2017",
+                "text": "#DirectTV  #SS11 : Caliente ! \ud83d\udd25 https://t.co/wy7nl9EmYp"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3514982,
+                    48.8566091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "created_at": "Sat Oct 28 09:34:21 +0000 2017",
+                "text": "@ATT #Gigapower Current speed: 224.49 down / 116.68 up. That's 17.0% of a gigabit connection. #fiber #speedtest #broadband"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.90316890000001,
+                    37.329699500000004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "created_at": "Sat Oct 28 09:55:34 +0000 2017",
+                "text": "RT @ksiechang: Proud of @comcast Clem Cheng in receiving @OCANational Corporate Achievement Award https://t.co/jnriytiTvb"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.16359890000001,
+                    39.952390300000005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "created_at": "Sat Oct 28 09:57:41 +0000 2017",
+                "text": "@AdamRoofVT @CounselorAdrian @TingBurlington Fiduciary responsibility is to your pocketbook and mine--we deserve pa\u2026 https://t.co/bI72j1NQLY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.21149609999999,
+                    44.4723969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "created_at": "Sat Oct 28 09:57:57 +0000 2017",
+                "text": "RT @FearDotA: Thanks @Xfinity for helping to tell my story so far. It's time to write the next chapter at #ESLHamburg #BleedBlue https://t.\u2026"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1276564,
+                    51.5073129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "created_at": "Sat Oct 28 09:40:19 +0000 2017",
+                "text": "RT @Oracle: .@ATT is beginning a historical migration to #OracleCloud. Here\u2019s what #ATT Comms CEO, John Donovan, says it means\u2026 "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1752694,
+                    5.8474727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "created_at": "Sat Oct 28 10:03:08 +0000 2017",
+                "text": "How Comcast became a powerful -- and controversial -- part of the Internet backbone | Benton Foundation https://t.co/HoE0zasLX8"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.434284,
+                    37.538504700000004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "created_at": "Sat Oct 28 10:03:11 +0000 2017",
+                "text": "Verizon Center: Metro and Parking Information, Including | Verizon Center https://t.co/IhRszLsb0Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4138681,
+                    37.779114500000006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "created_at": "Sat Oct 28 09:52:42 +0000 2017",
+                "text": "RT @hanifbali: Taxmoney at work. https://t.co/LUWDvHZTnA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0710845,
+                    59.3251082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "created_at": "Sat Oct 28 09:48:38 +0000 2017",
+                "text": "RT @Johanna_Wagner: Again.  Good job @TMobile #HR4HR happy to send some publicity your way.  If you gave me a new iPhone, I\u2019d even ditch @A\u2026"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.5120996,
+                    31.8160371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "created_at": "Sat Oct 28 09:53:54 +0000 2017",
+                "text": "@Klarrissa_xo It\u2019s on Comcast on demand!"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.8739228,
+                    43.19805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "created_at": "Sat Oct 28 09:54:12 +0000 2017",
+                "text": "RT @MisfitsGG: \ud83d\udd25+\ud83d\udc7d+\ud83d\udc30\nCome to the Xfinity East Plaza in @AAarena on Oct. 30th for a chance to win prizes and meet the @MisfitsGG CS\u2026 "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.2351381,
+                    44.091809399999995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "created_at": "Sat Oct 28 09:56:47 +0000 2017",
+                "text": "F E L I X !! \ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb @FelixSandman plzz do it for FooFam\u2665\ufe0f https://t.co/xqA2VzekLx"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.7037436,
+                    59.759169500000006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "created_at": "Sat Oct 28 09:30:06 +0000 2017",
+                "text": "Sorry for the abrupt end to the stream, gotta love Comcast \ud83d\ude12\ud83d\ude12 nonetheless, I appreciate everybody watching! Now time for some \ud83d\udca4\ud83d\udca4 goodnight!"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.2286745,
+                    41.4294743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "created_at": "Sat Oct 28 09:30:20 +0000 2017",
+                "text": "1/3 #PLYMOUTHMA-Watch 10/24 Town Meeting replay today @ 8AM on Comcast 15/Verizon 47. 10/24 &amp; 10/26 Selectmen repla\u2026 https://t.co/jvkYdB5SKE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.6672617,
+                    41.9584327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "created_at": "Sat Oct 28 09:30:29 +0000 2017",
+                "text": "See our latest #Humble, TX #job and click to apply: Verizon Sales Representative - https://t.co/wmwRaibyVJ #eatmorechicken #classy #Sales"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.9210271,
+                    35.960393800000006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "created_at": "Sat Oct 28 09:45:26 +0000 2017",
+                "text": "Smd t-mobile I\u2019m switching to @verizon https://t.co/fZyHbH2Stc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.112334,
+                    40.815375100000004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "created_at": "Sat Oct 28 09:49:18 +0000 2017",
+                "text": "RT @TheRealStanLee: At @StanLeeComicCon? Stop by booth 1209 to find out about an exclusive meet &amp; greet with Ol\u2019 Smiley himself!\u2026 "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.0892216,
+                    -32.3217337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "created_at": "Sat Oct 28 09:49:32 +0000 2017",
+                "text": "RT @ItCanWait: They\u2019ll know you\u2019re at their place, when you\u2019re at their place. Behind the wheel the text can wait. Pledge today-@ATT remind\u2026"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8625911,
+                    32.7940591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "created_at": "Sat Oct 28 09:59:02 +0000 2017",
+                "text": "Just placed my vote for NASCAR XFINITY Series Most Popular Driver! Who\u2019s got your vote? @NASCAR_XFINITY #NASCARMPD"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.9199792,
+                    40.2398068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "created_at": "Sat Oct 28 09:37:17 +0000 2017",
+                "text": "RT @hanifbali: Taxmoney at work. https://t.co/LUWDvHZTnA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.351693999999999,
+                    50.8465543
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "created_at": "Sat Oct 28 10:00:32 +0000 2017",
+                "text": "@Comcast Only 37Mbps when we pay for 75Mbps/down at Aventura Isles, 33179. Bulk HOA. @ComcastCares @xfinity #xfinity"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.1931093,
+                    25.9539075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "created_at": "Sat Oct 28 10:00:44 +0000 2017",
+                "text": "#PEMBROKEMA-Watch 10/23 @PembrokeMA Zoning Board of Appeals today/tomm @ 12PM/3:30PM on Comcast 15. Online: https://t.co/EbYq5L1x5r"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.6672667,
+                    41.9584277
+                ]
+            }
+        }
+    ]
+}
